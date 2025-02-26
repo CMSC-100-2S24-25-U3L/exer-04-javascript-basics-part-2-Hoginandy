@@ -1,0 +1,7 @@
+{
+    "name": "exer4",
+    "dependencies": {
+        "uuid": "^11.1.0"
+    },
+    "type": "module"
+}
