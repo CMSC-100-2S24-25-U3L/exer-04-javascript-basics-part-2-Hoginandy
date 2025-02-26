@@ -1,7 +1,8 @@
 {
     "name": "exer4",
     "dependencies": {
-        "uuid": "^11.1.0"
+        "uuid": "^11.1.0",
+        "validator": "^13.12.0"
     },
     "type": "module"
 }
